@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2021-01-24 00:01:03">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description> </description>
+<inserted/>
+<name>Comment Removal</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>c974fe433d3120102ec8e451995f1dc4</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>geni.palla</sys_created_by>
+<sys_created_on>2021-01-24 00:01:03</sys_created_on>
+<sys_id>8884f6c33d3120102ec8e451995f1d0a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>geni.palla</sys_updated_by>
+<sys_updated_on>2021-01-24 00:01:03</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Comment Removal">5b5f22e8b58160102ec8144fd50eff7d</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_5b5f22e8b58160102ec8144fd50eff7d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>log</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><installed_as_dependency>false</installed_as_dependency><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>Comment Removal</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>global</scope><scoped_administration>false</scoped_administration><short_description/><source>5b5f22e8b58160102ec8144fd50eff7d</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>geni.palla</sys_created_by><sys_created_on>2020-12-09 22:26:41</sys_created_on><sys_id>5b5f22e8b58160102ec8144fd50eff7d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>geni.palla</sys_updated_by><sys_updated_on>2020-12-09 22:26:41</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>760099707</payload_hash>
+<remote_update_set display_value="Comment Removal">8884f6c33d3120102ec8e451995f1d0a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>geni.palla</sys_created_by>
+<sys_created_on>2021-01-24 00:01:03</sys_created_on>
+<sys_id>0084f6c33d3120102ec8e451995f1d0b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17731b17a6d0000001</sys_recorded_at>
+<sys_updated_by>geni.palla</sys_updated_by>
+<sys_updated_on>2021-01-24 00:01:03</sys_updated_on>
+<table/>
+<target_name>Comment Removal</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Comment Removal">5b5f22e8b58160102ec8144fd50eff7d</application>
+<category>customer</category>
+<comments/>
+<name>sys_embedded_help_role_0c0f0005694d20102ec8b81f66f0f33f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>10</order><role display_value="comment_admin" name="comment_admin">e0feccc1694d20102ec8b81f66f0f36c</role><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>geni.palla</sys_created_by><sys_created_on>2020-12-11 00:03:01</sys_created_on><sys_id>0c0f0005694d20102ec8b81f66f0f33f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>e0feccc1694d20102ec8b81f66f0f36c</sys_name><sys_package display_value="Comment Removal" source="5b5f22e8b58160102ec8144fd50eff7d">5b5f22e8b58160102ec8144fd50eff7d</sys_package><sys_policy/><sys_scope display_value="Comment Removal">5b5f22e8b58160102ec8144fd50eff7d</sys_scope><sys_update_name>sys_embedded_help_role_0c0f0005694d20102ec8b81f66f0f33f</sys_update_name><sys_updated_by>geni.palla</sys_updated_by><sys_updated_on>2020-12-11 00:03:01</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+<payload_hash>1544078612</payload_hash>
+<remote_update_set display_value="Comment Removal">8884f6c33d3120102ec8e451995f1d0a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>geni.palla</sys_created_by>
+<sys_created_on>2021-01-24 00:01:03</sys_created_on>
+<sys_id>0884f6c33d3120102ec8e451995f1d0b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17731b17a920000001</sys_recorded_at>
+<sys_updated_by>geni.palla</sys_updated_by>
+<sys_updated_on>2021-01-24 00:01:03</sys_updated_on>
+<table/>
+<target_name>e0feccc1694d20102ec8b81f66f0f36c</target_name>
+<type>Embedded Help Role Priority</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Comment Removal">5b5f22e8b58160102ec8144fd50eff7d</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_e0feccc1694d20102ec8b81f66f0f36c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>This role gives users the power to delete comments from the ui interface via the right click feature.</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>comment_admin</name><requires_subscription>0</requires_subscription><scoped_admin>false</scoped_admin><snbe>false</snbe><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>geni.palla</sys_created_by><sys_created_on>2020-12-11 00:03:01</sys_created_on><sys_id>e0feccc1694d20102ec8b81f66f0f36c</sys_id><sys_mod_count>2</sys_mod_count><sys_name>comment_admin</sys_name><sys_package display_value="Comment Removal" source="5b5f22e8b58160102ec8144fd50eff7d">5b5f22e8b58160102ec8144fd50eff7d</sys_package><sys_policy/><sys_scope display_value="Comment Removal">5b5f22e8b58160102ec8144fd50eff7d</sys_scope><sys_update_name>sys_user_role_e0feccc1694d20102ec8b81f66f0f36c</sys_update_name><sys_updated_by>geni.palla</sys_updated_by><sys_updated_on>2020-12-11 00:11:24</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>1673123360</payload_hash>
+<remote_update_set display_value="Comment Removal">8884f6c33d3120102ec8e451995f1d0a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>geni.palla</sys_created_by>
+<sys_created_on>2021-01-24 00:01:03</sys_created_on>
+<sys_id>0c847ac33d3120102ec8e451995f1d3b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17731b17aab0000001</sys_recorded_at>
+<sys_updated_by>geni.palla</sys_updated_by>
+<sys_updated_on>2021-01-24 00:01:03</sys_updated_on>
+<table/>
+<target_name>comment_admin</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Comment Removal">5b5f22e8b58160102ec8144fd50eff7d</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_script_b46148f0690120102ec8b81f66f0f349</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_script"&gt;&lt;sys_ui_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;description&gt;injects a custom context menu on the actiivty stream.&lt;/description&gt;&lt;global&gt;true&lt;/global&gt;&lt;name&gt;activityContextMenu&lt;/name&gt;&lt;script&gt;&lt;![CDATA[(function() {
+	jQuery(document).ready(function(){
+		var contextMenu = '&lt;ul id="updateset_contextMenu" class="dropdown-menu" role="menu" style="display:none" &gt;'+
+			'&lt;li&gt;&lt;a id="updateset_removeComment" tabindex="1" style="color: #a94442;"&gt;Remove Comment&lt;/a&gt;&lt;/li&gt;'+
+			'&lt;/ul&gt;';
+		jQuery('body').append(contextMenu);
+
+		var menu = jQuery("#updateset_contextMenu");
+		var menuVisible = false;
+		var selectedComment = null;
+
+		function ajaxResponse(response) {
+			var answer = response.responseXML.documentElement.getAttribute("answer");
+			window.location.reload();
+			alert(answer);
+		}
+
+		var removeComment = jQuery("#updateset_removeComment").on("click", function(e){
+			e.preventDefault();
+			var id = g_form.getUniqueValue();
+			var commentText = selectedComment.currentTarget.children[2].innerText+"";
+			var ga = new GlideAjax('removeComment');
+			ga.addParam('sysparm_name', 'process');
+			ga.addParam('sysparm_sys_id', id);
+			ga.addParam('sysparm_comment', commentText);
+			ga.getXML(ajaxResponse);
+		});
+		
+		window.addEventListener("click", function(e) {
+			if(menuVisible)
+			{
+				menu.css({"display":"none"});
+				menuVisible = false;
+			}
+		});
+
+		var comments = document.querySelectorAll("#sn_form_inline_stream_entries &gt; ul &gt; li");
+		for(var i=0; i&lt;comments.length; i++)
+		{
+			jQuery(comments[i]).contextmenu(function(e){
+				e.preventDefault();
+				menu.css({"display":"block","left":e.pageX+"px","top":e.pageY+"px"});
+				menuVisible = true;
+				selectedComment = e;
+			});
+		}
+
+	});
+})();]]&gt;&lt;/script&gt;&lt;script_name/&gt;&lt;sys_class_name&gt;sys_ui_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;geni.palla&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-12-10 04:36:57&lt;/sys_created_on&gt;&lt;sys_id&gt;b46148f0690120102ec8b81f66f0f349&lt;/sys_id&gt;&lt;sys_mod_count&gt;75&lt;/sys_mod_count&gt;&lt;sys_name&gt;activityContextMenu&lt;/sys_name&gt;&lt;sys_package display_value="Comment Removal" source="5b5f22e8b58160102ec8144fd50eff7d"&gt;5b5f22e8b58160102ec8144fd50eff7d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Comment Removal"&gt;5b5f22e8b58160102ec8144fd50eff7d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_script_b46148f0690120102ec8b81f66f0f349&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;geni.palla&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-12-13 21:40:45&lt;/sys_updated_on&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;use_scoped_format&gt;false&lt;/use_scoped_format&gt;&lt;/sys_ui_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1814447832</payload_hash>
+<remote_update_set display_value="Comment Removal">8884f6c33d3120102ec8e451995f1d0a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>geni.palla</sys_created_by>
+<sys_created_on>2021-01-24 00:01:03</sys_created_on>
+<sys_id>48847ac33d3120102ec8e451995f1d3b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17731b17ab90000001</sys_recorded_at>
+<sys_updated_by>geni.palla</sys_updated_by>
+<sys_updated_on>2021-01-24 00:01:03</sys_updated_on>
+<table/>
+<target_name>activityContextMenu</target_name>
+<type>UI Script</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Comment Removal">5b5f22e8b58160102ec8144fd50eff7d</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_5759a634690920102ec8b81f66f0f346</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.removeComment&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;removeComment&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var removeComment = Class.create();
+removeComment.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+	process: function()
+	{
+		if(gs.hasRole('comment_admin')){
+
+			var sys_id = this.getParameter('sysparm_sys_id');
+			var comment = this.getParameter('sysparm_comment');
+			var comments = comment.split("\n");
+			var createdDate = null;
+
+			//Remove Journal Entry
+			var je = new GlideRecord('sys_journal_field');
+			je.addQuery('element_id',sys_id);
+			for(var i = 0; i&lt;comments.length; i++)
+			{
+				je.addQuery('value','CONTAINS',comments[i]);
+			}
+			je.query();
+			if(je.hasNext())
+			{
+				je.deleteMultiple();
+			}
+
+			//Remove audit history Comments are Saved only in new value
+			var audit = new GlideRecord('sys_audit');
+			audit.addQuery('documentkey',sys_id);
+			for(var i = 0; i&lt;comments.length; i++)
+			{
+				audit.addQuery('newvalue','CONTAINS',comments[i]);
+			}
+			audit.query();
+			if(audit.hasNext())
+			{
+				audit.deleteMultiple();
+			}
+
+
+			//Remove History Set
+			var hs = new GlideRecord('sys_history_set');
+			hs.addEncodedQuery('id='+sys_id);
+			hs.query();
+			if(hs.next())
+			{
+				var hl = new GlideRecord('sys_history_line');
+				hl.addQuery('set',hs.getUniqueValue());
+				for(var i = 0; i&lt;comments.length; i++)
+				{
+					hl.addQuery('new','CONTAINS',comments[i]);
+				}
+				hl.query();
+				if(hl.hasNext())
+				{
+					hl.deleteMultiple();
+				}
+			}
+
+			//Remove Email
+			var email = new GlideRecord('sys_email');
+			email.addQuery('instance',sys_id);
+			email.query();
+			if(email.hasNext())
+			{
+				email.deleteMultiple();
+			}
+
+			return "Comment has been deleted";
+		}
+
+		return "You do not have sufficient rights to perform this action.";
+	},
+
+	type: 'removeComment'
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;geni.palla&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-12-10 17:18:15&lt;/sys_created_on&gt;&lt;sys_id&gt;5759a634690920102ec8b81f66f0f346&lt;/sys_id&gt;&lt;sys_mod_count&gt;31&lt;/sys_mod_count&gt;&lt;sys_name&gt;removeComment&lt;/sys_name&gt;&lt;sys_package display_value="Comment Removal" source="5b5f22e8b58160102ec8144fd50eff7d"&gt;5b5f22e8b58160102ec8144fd50eff7d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Comment Removal"&gt;5b5f22e8b58160102ec8144fd50eff7d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_5759a634690920102ec8b81f66f0f346&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;geni.palla&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-12-13 21:40:54&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1563945934</payload_hash>
+<remote_update_set display_value="Comment Removal">8884f6c33d3120102ec8e451995f1d0a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>geni.palla</sys_created_by>
+<sys_created_on>2021-01-24 00:01:03</sys_created_on>
+<sys_id>84847ac33d3120102ec8e451995f1d3b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17731b17ad30000001</sys_recorded_at>
+<sys_updated_by>geni.palla</sys_updated_by>
+<sys_updated_on>2021-01-24 00:01:03</sys_updated_on>
+<table/>
+<target_name>removeComment</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
